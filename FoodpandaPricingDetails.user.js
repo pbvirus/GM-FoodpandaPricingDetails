@@ -3,7 +3,7 @@
 // @namespace   https://github.com/pbvirus
 // @homepage	https://github.com/pbvirus/GM-FoodpandaPricingDetails
 // @include     https://www.foodpanda.in/restaurants*
-// @version     1.1.0
+// @version     1.1.1
 // @grant       none
 // @description A Greasemonkey script to add pricing details to the Foodpanda search results page
 // ==/UserScript==
